@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+//message modifié après git 2016-10-31
 
 struct contact {
 	char telephone[11];
